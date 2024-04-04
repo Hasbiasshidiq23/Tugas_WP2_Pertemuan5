@@ -1,2 +1,2 @@
-# Tugas_WP2_Pertemuan5
- 
+# Tugas Pertemuan 5 - Peminjaman dan Daftar Buku Perpustakaan
+Nama : Hasbi As Shidiq
